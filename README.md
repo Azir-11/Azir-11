@@ -38,6 +38,12 @@ Front-end developers who like infrastructure.
 
 ------------
 
+### 📈 Activity Graph:
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azir-11&theme=vue)
+
+------------
+
 <a href="https://github.com/Azir-11#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azir-11&theme=github" width="100%">
 </a>
