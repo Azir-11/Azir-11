@@ -9,7 +9,7 @@
 
 <!-- <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/> -->
 
-Hi! 👋 I'm Azir! I am **a fan of the <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue&logoColor=white" /> Vue technology stack and a code perfectionist**, core team of [SoybeanJS]([https://github.com/vueComponent](https://github.com/soybeanjs)), author of[@Farm](https://github.com/farm-fe/farm)
+Hi! 👋 I'm Azir! I am **a fan of the <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue&logoColor=white" /> Vue technology stack and a code perfectionist**, core team of [SoybeanJS]([https://github.com/vueComponent](https://github.com/soybeanjs)), author of[@Arcdash](https://github.com/arcdash)
 
 Front-end developers who like infrastructure.
 
@@ -18,12 +18,12 @@ Front-end developers who like infrastructure.
 <br />
 
 <a href="https://github.com/Azir-11#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11/>
 </a>
 
 
 <a href="https://github.com/Azir-11#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11&theme=dark"/>
 </a>
 
 <br />
