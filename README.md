@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1> Azir 👨‍💻 &nbsp;&nbsp; ( &nbsp;
+<a href="mailto:2075125282@qq.com" align="center">
+  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
+</a>
+&nbsp; )
+</h1>
 
-<!--
-**Azir-11/Azir-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <u>*Work in Guangdong*</u>
 
-Here are some ideas to get you started:
+<!-- <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! 👋 I'm Azir! I am **a fan of the <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue&logoColor=white" /> Vue technology stack and a code perfectionist**, core team of [SoybeanJS]([https://github.com/vueComponent](https://github.com/soybeanjs)), author of[@Farm](https://github.com/farm-fe/farm)
+
+Front-end developers who like infrastructure.
+
+---
+
+<br />
+
+<a href="https://github.com/Azir-11#gh-light-mode-only">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+</a>
+
+
+<a href="https://github.com/Azir-11#gh-dark-mode-only">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+</a>
+
+<br />
+
+**Stacks**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,tailwind,vite,pnpm,java,go,cs,docker,postgres,git&perline=6" />
+  </a>
+</p>
+
+------------
+
+<a href="https://github.com/Azir-11#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azir-11&theme=github" width="100%">
+</a>
+
+<a href="https://github.com/Azir-11#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azir-11&theme=github_dark" width="100%">
+</a>
+
+
+<a href="https://github.com/Azir-11#gh-light-mode-only">
+
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azir-11&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azir-11&theme=github" width="800"> |
+
+</a>
+
+
+<a href="https://github.com/Azir-11#gh-dark-mode-only">
+
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azir-11&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azir-11&theme=github_dark" width="800"> |
+
+
+</a>
