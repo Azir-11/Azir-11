@@ -2,6 +2,7 @@
 <a href="mailto:2075125282@qq.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>
+2075125282@qq.com
 &nbsp; )
 </h1>
 
