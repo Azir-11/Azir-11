@@ -36,38 +36,3 @@ Front-end developers who like infrastructure.
     <img src="https://skillicons.dev/icons?i=js,ts,vue,tailwind,vite,pnpm,java,go,cs,docker,postgres,git&perline=6" />
   </a>
 </p>
-
-------------
-
-### 📈 Activity Graph:
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azir-11&theme=vue)
-
-------------
-
-<a href="https://github.com/Azir-11#gh-light-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azir-11&theme=github" width="100%">
-</a>
-
-<a href="https://github.com/Azir-11#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azir-11&theme=github_dark" width="100%">
-</a>
-
-
-<a href="https://github.com/Azir-11#gh-light-mode-only">
-
-| Top Language by Repo                                         | My Stats                                                     |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azir-11&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azir-11&theme=github" width="800"> |
-
-</a>
-
-
-<a href="https://github.com/Azir-11#gh-dark-mode-only">
-
-| Top Language by Repo                                         | My Stats                                                     |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azir-11&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azir-11&theme=github_dark" width="800"> |
-
-
-</a>
