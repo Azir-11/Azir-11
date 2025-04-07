@@ -18,21 +18,10 @@ Front-end developers who like infrastructure.
 
 <br />
 
-<a href="https://github.com/Azir-11#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11/>
-</a>
-
-
-<a href="https://github.com/Azir-11#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11&theme=dark"/>
+<a href="https://github.com/Azir-11">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Azir-11&theme=transparent"/>
 </a>
 
 <br />
 
-**Stacks**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,tailwind,vite,pnpm,java,go,cs,docker,postgres,git&perline=6" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azir-11)](https://github.com/anuraghazra/github-readme-stats)
