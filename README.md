@@ -1,12 +1,10 @@
 <h1> Azir 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:2075125282@qq.com" align="center">
+<a href="mailto:azir1024@gmail.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>
-2075125282@qq.com
+azir1024@gmail.com
 &nbsp; )
 </h1>
-
-> <u>*Work in Guangdong*</u>
 
 <!-- <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/> -->
 
